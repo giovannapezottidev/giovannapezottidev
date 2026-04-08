@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👩‍💻 Giovanna Pezotti
 
-<!--
-**giovannapezottidev/giovannapezottidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Focada em C# e Programação Orientada a Objetos
+📍 São José do Rio Preto - SP
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Atualmente estudando desenvolvimento com foco em back-end, praticando lógica de programação, organização de código e conceitos de POO.
+Buscando evoluir cada vez mais e conquistar minha primeira oportunidade na área de tecnologia.
+
+---
+
+## 🧠 Tecnologias em aprendizado
+
+* C#
+* .NET
+* Programação Orientada a Objetos
+* Lógica de Programação
+
+---
+
+## 📚 Projetos
+
+📌 Em breve meus projetos estarão disponíveis aqui no perfil
+
+---
+
+## 🎯 Objetivo
+
+Me tornar desenvolvedora back-end e construir uma carreira sólida na área de tecnologia.
